@@ -45,9 +45,9 @@
 
 ## 🎮 Fun Fact
 
+- I chose the nickname “Wapsop” back in my gaming days because I wanted a username starting with “W” — basically an upside-down “M”. At the time, it was unique, uncommon, and somehow still available on every platform I signed up for.
 > “Turning curiosity into code, data, and ideas.”
-> I chose the nickname “Wapsop” back in my gaming days because I wanted a username starting with “W” — basically an upside-down “M”. At the time, it was unique, uncommon, and somehow available everywhere for sign up…
->
+> 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1sodTWK1Wn_FhwnnXUGVv-322-ONdXLx5" width="350" alt="Blue screen cat meme"/>
 </p>
