@@ -49,5 +49,5 @@
 > “Turning curiosity into code, data, and ideas.”
 > 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1sodTWK1Wn_FhwnnXUGVv-322-ONdXLx5" width="350" alt="Blue screen cat meme"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 </p>
