@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manuel Diego 👋</h1>
+<h1 align="center">Hi, I'm José Manuel Diego S. 👋</h1>
 
 <p align="center">
   • Data Scientist • Biology Enthusiast • Gamer
@@ -46,6 +46,7 @@
 ## 🎮 Fun Fact
 
 > “Turning curiosity into code, data, and ideas.”
+> I chose the nickname “Wapsop” back in my gaming days because I wanted a username starting with “W” — basically an upside-down “M”. At the time, it was unique, uncommon, and somehow available everywhere for sign up…
 >
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1sodTWK1Wn_FhwnnXUGVv-322-ONdXLx5" width="350" alt="Blue screen cat meme"/>
