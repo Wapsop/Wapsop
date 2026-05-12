@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -46,3 +46,7 @@
 ## 🎮 Fun Fact
 
 > “Turning curiosity into code, data, and ideas.”
+>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1sodTWK1Wn_FhwnnXUGVv-322-ONdXLx5" width="350" alt="Blue screen cat meme"/>
+</p>
